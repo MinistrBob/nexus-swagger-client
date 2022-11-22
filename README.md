@@ -4,7 +4,7 @@ swagger-client for Sonatype Nexus Repository Manager 3
 My Nexus OSS version is 3.29.2-02.  
 
 # How to generate swagger-client client and use it
-Example you can see in (MinistrBob/MyPythonTools/Nexus)[https://github.com/MinistrBob/MyPythonTools/tree/main/Nexus]
+Example you can see in [MinistrBob/MyPythonTools/Nexus](https://github.com/MinistrBob/MyPythonTools/tree/main/Nexus)
 
 Generating a Python client with Swagger.  
 ```
